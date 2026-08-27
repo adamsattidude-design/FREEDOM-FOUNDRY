@@ -1,0 +1,162 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background-color: #fcfaf2;
+    color: #1a1a1a;
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+    overflow-x: hidden;
+  }
+
+  body {
+    overflow-x: hidden;
+    width: 100%;
+    min-width: 320px;
+    -webkit-tap-highlight-color: transparent;
+  }
+  
+  h1, h2, h3, .font-serif-luxury {
+    font-family: 'Cinzel', 'Prata', Georgia, serif;
+    letter-spacing: -0.01em;
+    overflow-wrap: break-word;
+    word-break: break-word;
+  }
+
+  input, select, textarea {
+    /* Prevent iOS zoom-in on focus */
+    font-size: 16px;
+  }
+  @media (min-width: 640px) {
+    input, select, textarea {
+      font-size: 0.875rem;
+    }
+  }
+}
+
+/* Sleek Interface Tokens */
+.bg-sleek-cream {
+  background-color: #fcfaf2;
+}
+
+.bg-sleek-navy {
+  background-color: #0a1a2f;
+}
+
+.text-sleek-gold {
+  color: #c5a021;
+}
+
+.bg-sleek-gold {
+  background-color: #c5a021;
+}
+
+.border-sleek-gold {
+  border-color: #c5a021;
+}
+
+.border-sleek-navy {
+  border-color: #0a1a2f;
+}
+
+.gold-gradient-text {
+  background: linear-gradient(135deg, #c5a021 0%, #ecd872 50%, #9e7f14 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.subtle-mesh-pattern {
+  background-image: radial-gradient(rgba(197, 160, 33, 0.12) 1px, transparent 1px);
+  background-size: 28px 28px;
+}
+
+/* Custom Luxury Animations */
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-8px); }
+}
+
+@keyframes floatSlow {
+  0%, 100% { transform: translateY(0px) rotate(0deg); }
+  50% { transform: translateY(-12px) rotate(1deg); }
+}
+
+@keyframes pulseGlow {
+  0%, 100% {
+    box-shadow: 0 0 15px rgba(197, 160, 33, 0.2), inset 0 0 15px rgba(197, 160, 33, 0.1);
+  }
+  50% {
+    box-shadow: 0 0 30px rgba(197, 160, 33, 0.5), inset 0 0 25px rgba(197, 160, 33, 0.25);
+  }
+}
+
+@keyframes shimmer {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
+}
+
+@keyframes radarWave {
+  0% { transform: scale(0.8); opacity: 0.9; }
+  100% { transform: scale(2.4); opacity: 0; }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-float {
+  animation: float 4s ease-in-out infinite;
+}
+
+.animate-float-slow {
+  animation: floatSlow 7s ease-in-out infinite;
+}
+
+.animate-pulse-glow {
+  animation: pulseGlow 3s ease-in-out infinite;
+}
+
+.animate-shimmer {
+  position: relative;
+  overflow: hidden;
+}
+
+.animate-shimmer::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(197, 160, 33, 0.15) 50%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  transform: translateX(-100%);
+  animation: shimmer 3.5s infinite;
+}
+
+.animate-radar {
+  animation: radarWave 2s cubic-bezier(0.2, 0.8, 0.2, 1) infinite;
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* Card Hover Elevation */
+.card-hover-luxury {
+  transition: all 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.card-hover-luxury:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 20px 30px -10px rgba(10, 26, 47, 0.12), 0 0 20px rgba(197, 160, 33, 0.15);
+}
+
+
+

@@ -1,0 +1,6 @@
+{
+  "name": "Freedom Foundry Real Estate",
+  "description": "Luxury homes, trusted deals, and smart property investments in Accra, Ghana by Freedom Foundry Real Estate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
