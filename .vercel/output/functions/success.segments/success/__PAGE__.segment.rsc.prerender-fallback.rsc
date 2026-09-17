@@ -1,0 +1,23 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0nt5hfjva33b8.js"],""]
+3:I[97367,["/_next/static/chunks/0nt5hfjva33b8.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/0nt5hfjva33b8.js"],"ViewportBoundary"]
+9:I[97367,["/_next/static/chunks/0nt5hfjva33b8.js"],"MetadataBoundary"]
+b:I[39756,["/_next/static/chunks/0nt5hfjva33b8.js"],"default"]
+c:I[37457,["/_next/static/chunks/0nt5hfjva33b8.js"],"default"]
+f:I[93417,["/_next/static/chunks/0nt5hfjva33b8.js"],"default"]
+:HL["/_next/static/chunks/21kp76ii8u549.css","style"]
+7:X
+e:X
+e:C
+0:{"buildId":"YX0Gij6QH5GZBMqsTqh7g","data":[{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"wrap","children":["$","div",null,{"className":"glass panel","style":{"textAlign":"center"},"children":[["$","span",null,{"className":"badge","children":"Success"}],["$","h1",null,{"className":"sectionTitle","children":"Thank you — your payment/request has been received."}],["$","p",null,{"className":"lead","children":"Freedom Foundry will review your details. Course access is granted only after payment proof is confirmed."}],["$","$L2",null,{"className":"btn goldbtn","href":"/","children":"Back Home"}]]}]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Freedom Foundry by Gideon"}],["$","meta","1",{"name":"description","content":"Courses, agency platforms and ATTITUDE automation for Ghanaian beginners and SMEs."}]]}]}]}],null]}],"isPartial":"$@a","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"isPartial":"$@d","staleTime":"$7","varyParams":"$e"},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/21kp76ii8u549.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/0nt5hfjva33b8.js","async":true}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","nav",null,{"className":"nav","children":["$","div",null,{"className":"navin","children":[["$","$L2",null,{"href":"/","className":"brand","children":["Freedom ",["$","span",null,{"children":"Foundry"}]]}],["$","div",null,{"className":"links","children":[["$","$L2",null,{"href":"/courses","children":"Courses"}],["$","$L2",null,{"href":"/agency","children":"Agency"}],["$","$L2",null,{"href":"/about","children":"About"}],["$","$L2",null,{"href":"/faq","children":"FAQ"}],["$","$L2",null,{"href":"/contact","children":"Contact"}],["$","$L2",null,{"href":"/admin","children":"Admin"}]]}]]}]}],["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}],["$","$Lf",null,{}],["$","footer",null,{"className":"footer","children":[["$","b",null,{"children":"Freedom Foundry"}],["$","span",null,{"children":"Accra, Ghana • Courses • Agency • ATTITUDE AI"}]]}]]}]}]]}],"isPartial":"$@10","staleTime":"$7","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+5:null
+7:300
+12:true
+7:C
+11:0
+a:"$undefined"
+d:"$undefined"
+10:"$undefined"
+6:"$undefined"

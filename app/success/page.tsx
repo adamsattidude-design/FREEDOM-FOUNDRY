@@ -1,0 +1,2 @@
+import Link from 'next/link';
+export default function Success(){return <main className="wrap"><div className="glass panel" style={{textAlign:'center'}}><span className="badge">Success</span><h1 className="sectionTitle">Thank you — your payment/request has been received.</h1><p className="lead">Freedom Foundry will review your details. Course access is granted only after payment proof is confirmed.</p><Link className="btn goldbtn" href="/">Back Home</Link></div></main>}

@@ -1,0 +1,2 @@
+import QuoteForm from '../components/QuoteForm';
+export default function Contact(){return <main className="wrap"><h1 className="sectionTitle">Contact Freedom Foundry</h1><p className="lead">Need a course, platform, automation or partnership? Send your details. Leads save to the real API with Supabase if configured, otherwise JSON in /data.</p><div className="grid2"><div className="glass panel"><h2>Office</h2><p>Accra, Ghana</p><p>Email: adams.attitude@gmail.com</p><p>AI: Chat with Freedom Foundry AI - online 24/7</p></div><QuoteForm /></div></main>}

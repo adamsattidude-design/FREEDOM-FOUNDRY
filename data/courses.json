@@ -1,0 +1,50 @@
+[
+  {
+    "id": "course-main",
+    "name": "Freedom Foundry 6-Week Program",
+    "price": 150,
+    "duration": "6 weeks",
+    "modules": [
+      "Mindset",
+      "Offer",
+      "Traffic",
+      "Sales"
+    ],
+    "description": "For beginners who want to start profitable online businesses with weekly support.",
+    "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?q=80&w=1200&auto=format&fit=crop",
+    "sellerLink": "https://selar.com/b89u521s5s",
+    "status": "active"
+  },
+  {
+    "id": "course-fullstack",
+    "name": "How to Build Full-Stack Web Apps",
+    "price": 250,
+    "duration": "4 weeks",
+    "modules": [
+      "Frontend",
+      "APIs",
+      "Databases",
+      "Deployment"
+    ],
+    "description": "Build practical apps, dashboards and APIs from zero.",
+    "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1200&auto=format&fit=crop",
+    "sellerLink": "https://selar.com/b89u521s5s",
+    "status": "active"
+  },
+  {
+    "id": "course-portals",
+    "name": "Student Portals and Landing Pages",
+    "price": 200,
+    "duration": "3 weeks",
+    "modules": [
+      "Portal UX",
+      "Admin dashboards",
+      "Payments",
+      "Launch"
+    ],
+    "description": "Create student portals, landing pages and simple business platforms.",
+    "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?q=80&w=1200&auto=format&fit=crop",
+    "sellerLink": "https://selar.com/b89u521s5s",
+    "status": "active"
+  }
+]

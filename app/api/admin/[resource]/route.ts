@@ -1,0 +1,6 @@
+import { NextRequest, NextResponse } from 'next/server';import { readJson, upsertItem, deleteItem, writeJson } from '../../../lib/store';
+const files:any={courses:'courses.json',services:'services.json',leads:'leads.json',content:'content.json'};
+type Ctx={params:Promise<{resource:string}>};
+export async function GET(_:NextRequest,ctx:Ctx){const {resource}=await ctx.params;const file=files[resource]; if(!file)return NextResponse.json({error:'unknown resource'},{status:404});return NextResponse.json(await readJson(file,resource==='content'?{}:[]))}
+export async function POST(req:NextRequest,ctx:Ctx){const {resource}=await ctx.params;const file=files[resource]; if(!file)return NextResponse.json({error:'unknown resource'},{status:404});const body=await req.json(); if(resource==='content'){return NextResponse.json(await writeJson(file,body))} const item={...body,id:body.id||`${resource}-${Date.now()}`};return NextResponse.json(await upsertItem(file,item))}
+export async function DELETE(req:NextRequest,ctx:Ctx){const {resource}=await ctx.params;const file=files[resource];const id=new URL(req.url).searchParams.get('id'); if(!file||!id)return NextResponse.json({error:'missing id'},{status:400});return NextResponse.json(await deleteItem(file,id))}
