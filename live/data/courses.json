@@ -1,50 +1,473 @@
 [
   {
-    "id": "course-main",
-    "name": "Freedom Foundry 6-Week Program",
-    "price": 150,
-    "duration": "6 weeks",
+    "id": "course-01-copy-writing",
+    "name": "COPY WRITING",
+    "price": 100,
+    "duration": "Lifetime access",
     "modules": [
-      "Mindset",
-      "Offer",
-      "Traffic",
-      "Sales"
+      "Digital Skills Bundle",
+      "VIP WhatsApp support",
+      "Dashboard access after payment"
     ],
-    "description": "For beginners who want to start profitable online businesses with weekly support.",
-    "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?q=80&w=1200&auto=format&fit=crop",
+    "description": "Write persuasive posts, ads, captions and offers that move people to buy.",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop",
     "sellerLink": "https://selar.com/b89u521s5s",
-    "status": "active"
+    "status": "active",
+    "category": "main"
   },
   {
-    "id": "course-fullstack",
-    "name": "How to Build Full-Stack Web Apps",
-    "price": 250,
-    "duration": "4 weeks",
+    "id": "course-02-digital-marketing-blueprint",
+    "name": "DIGITAL MARKETING BLUEPRINT",
+    "price": 100,
+    "duration": "Lifetime access",
     "modules": [
-      "Frontend",
-      "APIs",
-      "Databases",
-      "Deployment"
+      "Digital Skills Bundle",
+      "VIP WhatsApp support",
+      "Dashboard access after payment"
     ],
-    "description": "Build practical apps, dashboards and APIs from zero.",
-    "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1200&auto=format&fit=crop",
+    "description": "Learn traffic, funnels, content and sales basics for online business.",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop",
     "sellerLink": "https://selar.com/b89u521s5s",
-    "status": "active"
+    "status": "active",
+    "category": "main"
   },
   {
-    "id": "course-portals",
-    "name": "Student Portals and Landing Pages",
-    "price": 200,
-    "duration": "3 weeks",
+    "id": "course-03-paypal-creation",
+    "name": "PAYPAL CREATION",
+    "price": 100,
+    "duration": "Lifetime access",
     "modules": [
-      "Portal UX",
-      "Admin dashboards",
-      "Payments",
-      "Launch"
+      "Digital Skills Bundle",
+      "VIP WhatsApp support",
+      "Dashboard access after payment"
     ],
-    "description": "Create student portals, landing pages and simple business platforms.",
-    "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?q=80&w=1200&auto=format&fit=crop",
+    "description": "Understand PayPal setup steps and safe account handling for digital payments.",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop",
     "sellerLink": "https://selar.com/b89u521s5s",
-    "status": "active"
+    "status": "active",
+    "category": "main"
+  },
+  {
+    "id": "course-04-google-my-business",
+    "name": "GOOGLE MY BUSINESS",
+    "price": 100,
+    "duration": "Lifetime access",
+    "modules": [
+      "Digital Skills Bundle",
+      "VIP WhatsApp support",
+      "Dashboard access after payment"
+    ],
+    "description": "Set up and optimise Google Business visibility for local customers.",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop",
+    "sellerLink": "https://selar.com/b89u521s5s",
+    "status": "active",
+    "category": "main"
+  },
+  {
+    "id": "course-05-chatgpt-pdf-creation",
+    "name": "CHATGPT PDF CREATION AND SELLING",
+    "price": 100,
+    "duration": "Lifetime access",
+    "modules": [
+      "Digital Skills Bundle",
+      "VIP WhatsApp support",
+      "Dashboard access after payment"
+    ],
+    "description": "Intro, offer creation, PDF product creation and selling with ads.",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop",
+    "sellerLink": "https://selar.com/b89u521s5s",
+    "status": "active",
+    "category": "main"
+  },
+  {
+    "id": "course-06-drop-shipping",
+    "name": "DROP SHIPPING",
+    "price": 100,
+    "duration": "Lifetime access",
+    "modules": [
+      "Digital Skills Bundle",
+      "VIP WhatsApp support",
+      "Dashboard access after payment"
+    ],
+    "description": "Product research, store basics, supplier thinking and order flow.",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop",
+    "sellerLink": "https://selar.com/b89u521s5s",
+    "status": "active",
+    "category": "main"
+  },
+  {
+    "id": "course-07-graphics-design",
+    "name": "GRAPHICS DESIGN",
+    "price": 100,
+    "duration": "Lifetime access",
+    "modules": [
+      "Digital Skills Bundle",
+      "VIP WhatsApp support",
+      "Dashboard access after payment"
+    ],
+    "description": "Create clean social media flyers, simple brand assets and promo graphics.",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop",
+    "sellerLink": "https://selar.com/b89u521s5s",
+    "status": "active",
+    "category": "main"
+  },
+  {
+    "id": "course-08-amazon-book-publishing",
+    "name": "AMAZON BOOK PUBLISH",
+    "price": 100,
+    "duration": "Lifetime access",
+    "modules": [
+      "Digital Skills Bundle",
+      "VIP WhatsApp support",
+      "Dashboard access after payment"
+    ],
+    "description": "Package ideas into books and understand publishing workflows.",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop",
+    "sellerLink": "https://selar.com/b89u521s5s",
+    "status": "active",
+    "category": "main"
+  },
+  {
+    "id": "course-09-pull-leads-from-fb-ads",
+    "name": "PULL LEADS FROM FB ADS",
+    "price": 100,
+    "duration": "Lifetime access",
+    "modules": [
+      "Digital Skills Bundle",
+      "VIP WhatsApp support",
+      "Dashboard access after payment"
+    ],
+    "description": "Capture and organise Facebook ad leads for follow-up.",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop",
+    "sellerLink": "https://selar.com/b89u521s5s",
+    "status": "active",
+    "category": "main"
+  },
+  {
+    "id": "course-10-youtube-monetization",
+    "name": "YOUTUBE MONITIZATION",
+    "price": 100,
+    "duration": "Lifetime access",
+    "modules": [
+      "Digital Skills Bundle",
+      "VIP WhatsApp support",
+      "Dashboard access after payment"
+    ],
+    "description": "Channel setup, channel magnet and monetisation foundations.",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop",
+    "sellerLink": "https://selar.com/b89u521s5s",
+    "status": "active",
+    "category": "main"
+  },
+  {
+    "id": "course-11-google-ads-mastery",
+    "name": "GOOGLE ADS MASTERY",
+    "price": 100,
+    "duration": "Lifetime access",
+    "modules": [
+      "Digital Skills Bundle",
+      "VIP WhatsApp support",
+      "Dashboard access after payment"
+    ],
+    "description": "Search ad basics, keywords, campaign structure and lead intent.",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop",
+    "sellerLink": "https://selar.com/b89u521s5s",
+    "status": "active",
+    "category": "main"
+  },
+  {
+    "id": "course-12-digital-creation",
+    "name": "DIGITAL CREATION",
+    "price": 100,
+    "duration": "Lifetime access",
+    "modules": [
+      "Digital Skills Bundle",
+      "VIP WhatsApp support",
+      "Dashboard access after payment"
+    ],
+    "description": "Create digital products, templates, guides and simple offers.",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop",
+    "sellerLink": "https://selar.com/b89u521s5s",
+    "status": "active",
+    "category": "main"
+  },
+  {
+    "id": "course-13-photo-video-editing",
+    "name": "PHOTO AND VIDEO EDITING",
+    "price": 100,
+    "duration": "Lifetime access",
+    "modules": [
+      "Digital Skills Bundle",
+      "VIP WhatsApp support",
+      "Dashboard access after payment"
+    ],
+    "description": "Practical mobile-friendly editing for content, products and ads.",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop",
+    "sellerLink": "https://selar.com/b89u521s5s",
+    "status": "active",
+    "category": "main"
+  },
+  {
+    "id": "course-14-lead-generation",
+    "name": "LEAD GENERATION",
+    "price": 100,
+    "duration": "Lifetime access",
+    "modules": [
+      "Digital Skills Bundle",
+      "VIP WhatsApp support",
+      "Dashboard access after payment"
+    ],
+    "description": "Find prospects, collect details and build follow-up pipelines.",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop",
+    "sellerLink": "https://selar.com/b89u521s5s",
+    "status": "active",
+    "category": "main"
+  },
+  {
+    "id": "course-15-tiktok-crash",
+    "name": "TIK TOK CRASH COURSE",
+    "price": 100,
+    "duration": "Lifetime access",
+    "modules": [
+      "Digital Skills Bundle",
+      "VIP WhatsApp support",
+      "Dashboard access after payment"
+    ],
+    "description": "Short-form content, TikTok positioning and offer awareness.",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop",
+    "sellerLink": "https://selar.com/b89u521s5s",
+    "status": "active",
+    "category": "main"
+  },
+  {
+    "id": "course-16-mobile-app-game-creation",
+    "name": "MOBILE APP AND GAME CREATION",
+    "price": 100,
+    "duration": "Lifetime access",
+    "modules": [
+      "Digital Skills Bundle",
+      "VIP WhatsApp support",
+      "Dashboard access after payment"
+    ],
+    "description": "No-code and AI-assisted app/game creation basics.",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop",
+    "sellerLink": "https://selar.com/b89u521s5s",
+    "status": "active",
+    "category": "main"
+  },
+  {
+    "id": "course-17-ultimate-website-design",
+    "name": "ULTIMATE WEBSITE DESIGN",
+    "price": 100,
+    "duration": "Lifetime access",
+    "modules": [
+      "Digital Skills Bundle",
+      "VIP WhatsApp support",
+      "Dashboard access after payment"
+    ],
+    "description": "Plan and build clear websites that present offers and collect leads.",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop",
+    "sellerLink": "https://selar.com/b89u521s5s",
+    "status": "active",
+    "category": "main"
+  },
+  {
+    "id": "course-18-vtu-creation",
+    "name": "VTU CREATION",
+    "price": 100,
+    "duration": "Lifetime access",
+    "modules": [
+      "Digital Skills Bundle",
+      "VIP WhatsApp support",
+      "Dashboard access after payment"
+    ],
+    "description": "Understand VTU business setup, products, margins and operations.",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop",
+    "sellerLink": "https://selar.com/b89u521s5s",
+    "status": "active",
+    "category": "main"
+  },
+  {
+    "id": "course-19-ai-arts-animation-cartoons",
+    "name": "AI ARTS AND ANIMATION CARTOONS",
+    "price": 100,
+    "duration": "Lifetime access",
+    "modules": [
+      "Digital Skills Bundle",
+      "VIP WhatsApp support",
+      "Dashboard access after payment"
+    ],
+    "description": "Use AI tools for art, cartoons, characters and animated content ideas.",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop",
+    "sellerLink": "https://selar.com/b89u521s5s",
+    "status": "active",
+    "category": "main"
+  },
+  {
+    "id": "course-20-ai-content-creation",
+    "name": "AI CONTENT CREATION",
+    "price": 100,
+    "duration": "Lifetime access",
+    "modules": [
+      "Digital Skills Bundle",
+      "VIP WhatsApp support",
+      "Dashboard access after payment"
+    ],
+    "description": "Use AI to plan, write and repurpose content faster.",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop",
+    "sellerLink": "https://selar.com/b89u521s5s",
+    "status": "active",
+    "category": "main"
+  },
+  {
+    "id": "course-21-selar-ai-integration",
+    "name": "SELAR AI INTEGRATION",
+    "price": 100,
+    "duration": "Lifetime access",
+    "modules": [
+      "Digital Skills Bundle",
+      "VIP WhatsApp support",
+      "Dashboard access after payment"
+    ],
+    "description": "Use Selar with digital products and AI-assisted selling workflows.",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop",
+    "sellerLink": "https://selar.com/b89u521s5s",
+    "status": "active",
+    "category": "main"
+  },
+  {
+    "id": "bonus-01-sell-like-a-pro",
+    "name": "SELL LIKE A PRO",
+    "price": 100,
+    "duration": "Bonus",
+    "modules": [
+      "Bonus resource",
+      "Included in GHC100 bundle"
+    ],
+    "description": "Sales psychology and follow-up bonus.",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=1200&auto=format&fit=crop",
+    "sellerLink": "https://selar.com/b89u521s5s",
+    "status": "active",
+    "category": "bonus"
+  },
+  {
+    "id": "bonus-02-chatgpt-monetization",
+    "name": "CHAT GPT MONETIZATION",
+    "price": 100,
+    "duration": "Bonus",
+    "modules": [
+      "Bonus resource",
+      "Included in GHC100 bundle"
+    ],
+    "description": "Ways to package AI help into useful offers.",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=1200&auto=format&fit=crop",
+    "sellerLink": "https://selar.com/b89u521s5s",
+    "status": "active",
+    "category": "bonus"
+  },
+  {
+    "id": "bonus-03-ebooks-library",
+    "name": "E-BOOKS LIBRARY",
+    "price": 100,
+    "duration": "Bonus",
+    "modules": [
+      "Bonus resource",
+      "Included in GHC100 bundle"
+    ],
+    "description": "Digital library resources for learning and reselling ideas.",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=1200&auto=format&fit=crop",
+    "sellerLink": "https://selar.com/b89u521s5s",
+    "status": "active",
+    "category": "bonus"
+  },
+  {
+    "id": "bonus-04-social-marketing-science",
+    "name": "SOCIAL MARKETING SCIENCE",
+    "price": 100,
+    "duration": "Bonus",
+    "modules": [
+      "Bonus resource",
+      "Included in GHC100 bundle"
+    ],
+    "description": "Understand why content sells and how attention works.",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=1200&auto=format&fit=crop",
+    "sellerLink": "https://selar.com/b89u521s5s",
+    "status": "active",
+    "category": "bonus"
+  },
+  {
+    "id": "bonus-05-whatsapp-daily-income-guide",
+    "name": "WHATSAPP DAILY INCOME GUIDE",
+    "price": 100,
+    "duration": "Bonus",
+    "modules": [
+      "Bonus resource",
+      "Included in GHC100 bundle"
+    ],
+    "description": "WhatsApp offer, follow-up and customer handling guide.",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=1200&auto=format&fit=crop",
+    "sellerLink": "https://selar.com/b89u521s5s",
+    "status": "active",
+    "category": "bonus"
+  },
+  {
+    "id": "bonus-06-blogging-monetization",
+    "name": "BLOGGING MONETIZATION",
+    "price": 100,
+    "duration": "Bonus",
+    "modules": [
+      "Bonus resource",
+      "Included in GHC100 bundle"
+    ],
+    "description": "Basics of blogs, content and monetisation routes.",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=1200&auto=format&fit=crop",
+    "sellerLink": "https://selar.com/b89u521s5s",
+    "status": "active",
+    "category": "bonus"
+  },
+  {
+    "id": "bonus-07-game-development",
+    "name": "GAME DEVELOPMENT",
+    "price": 100,
+    "duration": "Bonus",
+    "modules": [
+      "Bonus resource",
+      "Included in GHC100 bundle"
+    ],
+    "description": "Beginner game creation and publishing concepts.",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=1200&auto=format&fit=crop",
+    "sellerLink": "https://selar.com/b89u521s5s",
+    "status": "active",
+    "category": "bonus"
+  },
+  {
+    "id": "bonus-08-apkmod-apps-download",
+    "name": "APKMOD APPS AND DOWNLOAD",
+    "price": 100,
+    "duration": "Bonus",
+    "modules": [
+      "Bonus resource",
+      "Included in GHC100 bundle"
+    ],
+    "description": "App/download bonus resources and safe-use guidance.",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=1200&auto=format&fit=crop",
+    "sellerLink": "https://selar.com/b89u521s5s",
+    "status": "active",
+    "category": "bonus"
+  },
+  {
+    "id": "bonus-09-ultimate-data-hack",
+    "name": "ULTIMATE DATA HACK",
+    "price": 100,
+    "duration": "Bonus",
+    "modules": [
+      "Bonus resource",
+      "Included in GHC100 bundle"
+    ],
+    "description": "Practical data-saving and online productivity tips.",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=1200&auto=format&fit=crop",
+    "sellerLink": "https://selar.com/b89u521s5s",
+    "status": "active",
+    "category": "bonus"
   }
 ]

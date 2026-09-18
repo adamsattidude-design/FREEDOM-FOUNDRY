@@ -1,2 +1,2 @@
 import Link from 'next/link';
-export default function Nav(){return <nav className="nav"><div className="navin"><Link href="/" className="brand">Freedom <span>Foundry</span></Link><div className="links"><Link href="/courses">Courses</Link><Link href="/agency">Agency</Link><Link href="/about">About</Link><Link href="/faq">FAQ</Link><Link href="/contact">Contact</Link><Link href="/admin">Admin</Link></div></div></nav>}
+export default function Nav(){return <nav className="nav"><div className="navin"><Link href="/" className="brand">Freedom <span>Foundry</span></Link><div className="links"><Link href="/courses">Courses</Link><Link href="/agency">Agency</Link><Link href="/about">About</Link><Link href="/faq">FAQ</Link><Link href="/contact">Contact</Link></div></div></nav>}

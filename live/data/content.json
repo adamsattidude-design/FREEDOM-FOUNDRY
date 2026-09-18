@@ -1,1 +1,57 @@
-{"settings":{"heroTitle":"Helping beginners start profitable online businesses + building platforms for businesses","heroSubtitle":"Freedom Foundry by Gideon combines courses, agency builds and ATTITUDE automation for Ghanaian beginners and SMEs.","momoNumber":"024 000 0000","students":"1200+","rating":"4.9/5"},"faqs":[{"id":"faq-main","question":"What is Freedom Foundry?","answer":"Freedom Foundry is a 6-week program by Gideon for beginners. Price 150 GHS. Modules: Mindset, Offer, Traffic and Sales. Support includes Telegram group plus weekly call.","category":"courses"},{"id":"faq-agency","question":"What can the agency build?","answer":"Websites, student portals, dashboards, booking systems, landing pages, sales funnels and automation with ATTITUDE bot.","category":"agency"}],"testimonials":[{"id":"t1","name":"Ama Boateng","role":"Student, Accra","photo":"https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=400&auto=format&fit=crop","rating":5,"text":"Freedom Foundry helped me choose one clear offer and start selling with confidence."},{"id":"t2","name":"Kwame Mensah","role":"SME owner, Kumasi","photo":"https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=400&auto=format&fit=crop","rating":5,"text":"Gideon's team made our website simple, premium and easy for customers to use."},{"id":"t3","name":"Esi Adjei","role":"Founder, Tema","photo":"https://images.unsplash.com/photo-1531123897727-8f129e1688ce?q=80&w=400&auto=format&fit=crop","rating":5,"text":"The ATTITUDE bot captures leads even when our team is asleep."}],"kbSources":[{"id":"kb-file-main","title":"Freedom Foundry Program","text":"Freedom Foundry is a 6-week program by Gideon for beginners. Price 150 GHS. Modules: Mindset, Offer, Traffic, Sales. Support: Telegram group + weekly call.","botpressFileId":"file_01M2RNSHFC796SY0RZZT9GGY2E"}]}
+{
+  "settings": {
+    "heroTitle": "Helping beginners start profitable online businesses + building platforms for businesses",
+    "heroSubtitle": "Freedom Foundry by Gideon combines courses, agency builds and ATTITUDE automation for Ghanaian beginners and SMEs.",
+    "momoNumber": "0257037118",
+    "students": "1200+",
+    "rating": "4.9/5"
+  },
+  "faqs": [
+    {
+      "id": "faq-main",
+      "question": "What is Freedom Foundry?",
+      "answer": "Freedom Foundry is a 6-week program by Gideon for beginners. Price 150 GHS. Modules: Mindset, Offer, Traffic and Sales. Support includes Telegram group plus weekly call.",
+      "category": "courses"
+    },
+    {
+      "id": "faq-agency",
+      "question": "What can the agency build?",
+      "answer": "Websites, student portals, dashboards, booking systems, landing pages, sales funnels and automation with ATTITUDE bot.",
+      "category": "agency"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "t1",
+      "name": "Ama Boateng",
+      "role": "Student, Accra",
+      "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=400&auto=format&fit=crop",
+      "rating": 5,
+      "text": "Freedom Foundry helped me choose one clear offer and start selling with confidence."
+    },
+    {
+      "id": "t2",
+      "name": "Kwame Mensah",
+      "role": "SME owner, Kumasi",
+      "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=400&auto=format&fit=crop",
+      "rating": 5,
+      "text": "Gideon's team made our website simple, premium and easy for customers to use."
+    },
+    {
+      "id": "t3",
+      "name": "Esi Adjei",
+      "role": "Founder, Tema",
+      "photo": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?q=80&w=400&auto=format&fit=crop",
+      "rating": 5,
+      "text": "The ATTITUDE bot captures leads even when our team is asleep."
+    }
+  ],
+  "kbSources": [
+    {
+      "id": "kb-file-main",
+      "title": "Freedom Foundry Program",
+      "text": "Freedom Foundry is a 6-week program by Gideon for beginners. Price 150 GHS. Modules: Mindset, Offer, Traffic, Sales. Support: Telegram group + weekly call.",
+      "botpressFileId": "file_01M2RNSHFC796SY0RZZT9GGY2E"
+    }
+  ]
+}
