@@ -1,0 +1,2 @@
+import { NextResponse } from 'next/server';import { readJson } from '../../lib/store';
+export async function GET(){const leads:any[]=await readJson('leads.json',[]);const header=['id','createdAt','name','businessName','phone','email','serviceNeeded','budget','status','description'];const csv=[header.join(','),...leads.map(l=>header.map(h=>`"${String(l[h]||'').replaceAll('"','""')}"`).join(','))].join('\n');return new NextResponse(csv,{headers:{'Content-Type':'text/csv','Content-Disposition':'attachment; filename="freedom-foundry-leads.csv"'}})}
